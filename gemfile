@@ -1,0 +1,2 @@
+gem 'to_words', '~> 1.1', '>= 1.1.1'
+gem 'number_to_words_ru', '~> 0.3.1'
